@@ -135,6 +135,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+neuroadventure-env/
+.langgraph_api/
 
 # Spyder project settings
 .spyderproject

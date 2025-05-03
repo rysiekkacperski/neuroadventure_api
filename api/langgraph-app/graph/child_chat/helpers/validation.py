@@ -1,7 +1,7 @@
 from pydantic import GetCoreSchemaHandler
 from pydantic_core import CoreSchema, core_schema
 from typing import Any, Dict
-from .enum import MoodEnum
+from child_chat.helpers.enum import MoodEnum
 
 class DiagnosisType:
     """
